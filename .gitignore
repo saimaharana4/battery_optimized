@@ -112,3 +112,4 @@ dmypy.json
 .pyright/
 *.idea
 *data
+*.db
