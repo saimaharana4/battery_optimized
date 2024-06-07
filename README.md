@@ -1,3 +1,5 @@
+![Battery Monitor](battery_Image.png)
+
 # Battery Monitor
 
 This is a Battery Monitor application that tracks the battery level and charging status of your laptop. It provides notifications for various battery levels and logs battery data over time, displaying it in a graphical format. The application is built using Python and uses the Tkinter library for the graphical user interface (GUI).
